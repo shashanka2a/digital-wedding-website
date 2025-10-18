@@ -203,7 +203,7 @@ export default function App() {
               <MapPin className="w-5 h-5 text-[#6B3FA0] flex-shrink-0 mt-1" />
               <div className="text-center">
                 <button
-                  onClick={() => window.open('https://maps.google.com/?q=Grasshopper+Resorts+Kistareddypet+Telangana', '_blank')}
+                  onClick={() => window.open('https://maps.app.goo.gl/aPRZF1fRy3cP24WB9?g_st=ipc', '_blank')}
                   className="text-[#6B3FA0] hover:text-[#5A338A] underline decoration-dotted underline-offset-4 hover:underline-offset-2 transition-all duration-200 cursor-pointer"
                   style={{ fontWeight: 500 }}
                 >
