@@ -62,7 +62,18 @@ export default function App() {
               color: '#6B3FA0'
             }}>
               <span>Deekshitha</span>
-              <span className="font-semibold" style={{ color: '#C9A84E', textShadow: '0 1px 3px rgba(0, 0, 0, 0.1)' }}>weds</span>
+              <span 
+                className="font-semibold" 
+                style={{ 
+                  background: 'linear-gradient(90deg, #8C3B80 0%, #C47AC0 100%)',
+                  backgroundClip: 'text',
+                  WebkitBackgroundClip: 'text',
+                  color: 'transparent',
+                  textShadow: '0 1px 3px rgba(0, 0, 0, 0.1)'
+                }}
+              >
+                weds
+              </span>
               <span>Harish</span>
             </h1>
           </motion.div>
