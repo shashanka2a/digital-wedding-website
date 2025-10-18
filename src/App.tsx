@@ -61,9 +61,9 @@ export default function App() {
               textShadow: '0 2px 20px rgba(255, 255, 255, 0.8), 0 4px 30px rgba(167, 139, 204, 0.3)',
               color: '#6B3FA0'
             }}>
-              <span>Harish</span>
-              <Heart className="w-8 h-8 sm:w-12 sm:h-12 fill-[#A78BCC] text-[#A78BCC] flex-shrink-0 drop-shadow-lg" aria-label="and" />
               <span>Deekshitha</span>
+              <span className="text-[#A78BCC] font-semibold">weds</span>
+              <span>Harish</span>
             </h1>
           </motion.div>
 
