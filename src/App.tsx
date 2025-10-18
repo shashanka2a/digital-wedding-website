@@ -62,7 +62,7 @@ export default function App() {
               color: '#6B3FA0'
             }}>
               <span>Deekshitha</span>
-              <span className="text-black font-semibold">weds</span>
+              <span className="text-gray-600 font-semibold">weds</span>
               <span>Harish</span>
             </h1>
           </motion.div>
