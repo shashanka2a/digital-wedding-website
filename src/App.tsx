@@ -62,7 +62,7 @@ export default function App() {
               color: '#6B3FA0'
             }}>
               <span>Deekshitha</span>
-              <span className="text-amber-700 font-semibold" style={{ textShadow: '0 1px 3px rgba(0, 0, 0, 0.1)' }}>weds</span>
+              <span className="font-semibold" style={{ color: '#C9A84E', textShadow: '0 1px 3px rgba(0, 0, 0, 0.1)' }}>weds</span>
               <span>Harish</span>
             </h1>
           </motion.div>
