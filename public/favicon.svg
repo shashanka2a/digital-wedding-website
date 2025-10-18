@@ -1,0 +1,18 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Simple heart shape -->
+  <path d="M16,28 C16,28 6,18 6,11 C6,8 9,5 13,6 C15,5 16,7 16,7 C16,7 17,5 19,6 C23,5 26,8 26,11 C26,18 16,28 16,28 Z" 
+        fill="#A78BCC" 
+        stroke="#6B3FA0" 
+        stroke-width="0.5"/>
+  
+  <!-- Minimal lavender stem -->
+  <path d="M16,28 L16,22" 
+        stroke="#6B3FA0" 
+        stroke-width="0.8" 
+        stroke-linecap="round"/>
+  
+  <!-- Simple lavender blossom -->
+  <circle cx="16" cy="20" r="1.2" fill="#E8DFF8" stroke="#A78BCC" stroke-width="0.3"/>
+  <circle cx="15" cy="19" r="0.6" fill="#A78BCC"/>
+  <circle cx="17" cy="19" r="0.6" fill="#A78BCC"/>
+</svg>

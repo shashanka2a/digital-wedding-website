@@ -20,6 +20,14 @@ export const metadata: Metadata = {
   description: "Join us in celebrating the wedding of Harish and Deekshitha. November 7, 2025 - Wedding Ceremony & November 9, 2025 - Reception",
   keywords: ["wedding", "invitation", "Harish", "Deekshitha", "November 2025"],
   authors: [{ name: "Bloomora" }],
+  icons: {
+    icon: [
+      { url: "/favicon.svg", type: "image/svg+xml" },
+      { url: "/lavender-love-symbol.svg", type: "image/svg+xml" }
+    ],
+    shortcut: "/favicon.svg",
+    apple: "/lavender-love-symbol.svg"
+  },
   openGraph: {
     title: "Harish & Deekshitha's Wedding",
     description: "Join us in celebrating the wedding of Harish and Deekshitha. November 7, 2025 - Wedding Ceremony & November 9, 2025 - Reception",
