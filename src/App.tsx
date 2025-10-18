@@ -127,9 +127,9 @@ export default function App() {
             <div className="text-center mb-6 space-y-2 text-[#2B2B2B]/80">
               <p className="italic opacity-75">Hosted by</p>
               <div className="space-y-1">
-                <p>Mr. G. Suresh Kumar & Mrs. P. Haripriya</p>
-                <p className="opacity-60">and</p>
                 <p>Mr. Narahari Boda & Mrs. Jyothi Boda</p>
+                <p className="opacity-60">and</p>
+                <p>Mr. G. Suresh Kumar & Mrs. P. Haripriya</p>
               </div>
             </div>
 
