@@ -247,12 +247,12 @@ export default function App() {
           <Heart className="w-5 h-5 fill-[#A78BCC] text-[#A78BCC] inline-block" aria-label="love" />
           <span>by</span>
           <a 
-            href="http://bloomora.services/" 
+            href="https://knotify.sh/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="underline decoration-[#6B3FA0]/40 hover:decoration-[#6B3FA0] transition-all duration-200 hover:text-[#5A338A] focus:outline-none focus:ring-2 focus:ring-[#6B3FA0] focus:ring-offset-2 rounded px-1"
           >
-            Bloomora
+            Knotify
           </a>
         </p>
       </footer>

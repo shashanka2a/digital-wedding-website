@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   title: "Harish & Deekshitha's Wedding",
   description: "Join us in celebrating the wedding of Harish and Deekshitha. November 7, 2025 - Wedding Ceremony & November 9, 2025 - Reception",
   keywords: ["wedding", "invitation", "Harish", "Deekshitha", "November 2025"],
-  authors: [{ name: "Bloomora" }],
+  authors: [{ name: "Knotify" }],
   icons: {
     icon: [
       { url: "/favicon.svg", type: "image/svg+xml" },
